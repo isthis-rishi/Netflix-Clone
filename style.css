@@ -331,7 +331,7 @@ a {
   margin: 20px 0px;
 }
 
-/* Media Query for Tabs=============================================================================== */
+/* Media Query for Tabs================================================================================================== */
 
 
 @media (max-width : 900px) and (min-width : 377px) {
@@ -339,7 +339,7 @@ a {
   
 .box-head {
   width: 100vw;
-  height: 90vh;
+  height: 800px;
   background-image: url(image/background.jpg);
 }
   
