@@ -491,6 +491,12 @@ a {
 
 @media (max-width : 376px) {
 
+  .box-head {
+  width: 100vw;
+  height: 600px;
+  background-image: url(image/background.jpg);
+}
+  
   .box-head .main .topbar {
     padding: 3em 2em;
     display: flex;
